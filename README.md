@@ -1,0 +1,1 @@
+Cloud of generate-license.
