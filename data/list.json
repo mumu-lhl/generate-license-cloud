@@ -1,38 +1,16 @@
 {
-    "GPLv3": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/GPLv3"
-    },
-    "GPLv2": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/GPLv2"
-    },
-    "GPLv1": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/GPLv1"
-    },
-    "LGPLv3": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/LGPLv3"
-    },
-    "LGPLv2.1": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/LGPLv2.1"
-    },
-    "AGPLv3": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/AGPLv3"
-    },
-    "FDLv1.3": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/FDLv1.3"
-    },
-    "FDLv1.2": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/FDLv1.2"
-    },
-    "FDLv1.1": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/FDLv1.1"
-    },
-    "GNUAllPermissive": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/GNUAllPermissive"
-    },
-    "BSLv1": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/BSLv1"
-    },
-    "ISC": {
-        "link": "https://cdn.jsdelivr.net/gh/mumu-lhl/generate-license-cloud@main/data/list/ISC"
-    }
+    [
+        "GPLv3",
+        "GPLv2",
+        "GPLv1",
+        "LGPLv3",
+        "LGPLv2.1",
+        "AGPLv3",
+        "FDLv1.3",
+        "FDLv1.2",
+        "FDLv1.1",
+        "GNUAllPermissive",
+        "BSLv1",
+        "ISC"
+    ]
 }
